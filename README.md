@@ -3,6 +3,7 @@
 ## Exemple 01: Loyalty and Account Status Discount case.
 Code that was refactor:
 
+```
 public class GerDesc
     {
         public decimal Calcular(decimal valor, int tipo, int anos)
@@ -28,4 +29,4 @@ public class GerDesc
             return resultado;
         }
     }
-    
+```    
